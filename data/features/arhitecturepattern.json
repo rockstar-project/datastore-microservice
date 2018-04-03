@@ -1,0 +1,8 @@
+{
+  "slug": "architecture",
+  "title": "Architecture Patterns",
+  "display_order": 1,
+  "enabled": true,
+  "description": "Apply cloud-native patterns & best practices with confidence",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+}

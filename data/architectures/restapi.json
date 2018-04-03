@@ -1,0 +1,8 @@
+{
+  "slug": "restapi",
+  "title": "REST API",
+  "display_order": 1,
+  "enabled": true,
+  "description": "Low-code development in enterprise-grade runtimes & frameworks",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "raml",
+  "title": "RAML",
+  "enabled": true,
+  "description": "",
+  "display_order": 3,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/raml.png",
+  "versions": [ "0.8", "1" ]
+}

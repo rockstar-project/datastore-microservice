@@ -1,0 +1,9 @@
+{
+  "slug": "azr",
+  "title": "Azure",
+  "enabled": true,
+  "display_order": 8,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azr.png",
+  "versions" : [ "Hosted" ]
+}

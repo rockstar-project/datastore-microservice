@@ -1,0 +1,9 @@
+{
+  "slug": "jetty",
+  "title": "Jetty",
+  "enabled": true,
+  "display_order": 1,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jetty.svg",
+  "versions": [ "0.0" ]
+},

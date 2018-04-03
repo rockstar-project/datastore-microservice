@@ -1,0 +1,11 @@
+{
+  "slug": "openwhisk",
+  "title": "IBM openwhisk",
+  "enabled": true,
+  "display_order": 4,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudfunction.png",
+  "versions": [
+      "Hosted"
+  ]
+}

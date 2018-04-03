@@ -1,0 +1,9 @@
+{
+  "slug": "quay",
+  "title": "Quay",
+  "enabled": true,
+  "display_order": "2",
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/quay.svg",
+  "versions": [ "Hosted" ]
+}

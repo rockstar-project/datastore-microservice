@@ -1,0 +1,43 @@
+{
+  "slug": "java",
+  "title": "Java",
+  "enabled": true,
+  "display_order": 1,
+  "description": "Step up to modern cloud development with Oracle Java",
+  "thumbnail": "https://icongr.am/devicon/java-original.svg?size=200",
+  "versions": [ "7", "8", "9" ],
+  "stack": "backend",
+  "frameworks": [
+    {
+      "slug": "springboot",
+      "title": "Spring Boot",
+      "enabled": true,
+      "display_order": 1,
+      "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springboot.png",
+      "versions": [
+        "1.5.4.RELEASE",
+        "1.5.9.RELEASE",
+        "2.0.0.RELEASE"
+      ]
+    },
+    {
+      "slug": "dropwizard",
+      "title": "DropWizard",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "vertx",
+      "title": "VERT.X",
+      "enabled": true,
+      "display_order": 3,
+      "deswcription": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
+      "versions": [ "3.5.0" ]
+    }
+  ]
+}

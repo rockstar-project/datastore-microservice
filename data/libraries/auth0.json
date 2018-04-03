@@ -1,0 +1,11 @@
+{
+  "slug": "lib-auth0",
+  "title": "Security",
+  "enabled": true,
+  "display_order": 1,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+  "versions": [
+    "1.0.0-rc.3"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "nats",
+  "title": "NATS",
+  "enabled": true,
+  "display_order": 3,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+  "versions": [
+    "1.0.4"
+  ]
+}

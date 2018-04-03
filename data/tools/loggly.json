@@ -1,0 +1,11 @@
+{
+  "slug": "loggly",
+  "title": "Loggly",
+  "enabled": true,
+  "display_order": 2,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loggly.png",
+  "versions": [
+    "Hosted"
+  ]
+}

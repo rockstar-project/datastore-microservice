@@ -1,0 +1,21 @@
+{
+  "_id": "58504107-4e1a-4a71-8285-e6f32d54956a",
+  "category": "restapi",
+  "group": "capabilities",
+  "slug": "platform",
+  "title": "Supporting Capabilities",
+  "displayOrder": 2,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/platform.png"
+},
+{
+  "_id": "85bc5a11-07af-4830-8587-87b008d7b0d3",
+  "category": "restapi",
+  "group": "capabilities",
+  "slug": "devops",
+  "title": "Continuous Integration",
+  "description": "",
+  "displayOrder": 3,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/devops.png"
+},

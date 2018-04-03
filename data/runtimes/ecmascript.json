@@ -1,0 +1,25 @@
+{
+  "slug": "ecmascript",
+  "title": "ECMAScript",
+  "enabled": true,
+  "display_order": 7,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecmascript.png",
+  "versions": [
+    "5.0", "5.1", "6.0"
+  ],
+  "stack": "frontend",
+  "frameworks": [
+    {
+      "slug": "react",
+      "title": "React",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/react.png",
+      "versions": [
+        "16.2.0", "16.3.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "golang",
+  "title": "Go",
+  "enabled": true,
+  "display_order": 4,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/golang.png",
+  "versions": [ "8", "9" ],
+  "stack": "backend",
+  "frameworks": [
+    {
+      "slug": "beego",
+      "title": "Beego",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "gin",
+      "title": "Gin",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "gizmo",
+      "title": "Gizmo",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "gokit",
+      "title": "Go kit",
+      "display_order": 2,
+      "enabled": true,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gokit.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "gorilla",
+      "title": "Gorilla",
+      "display_order": 3,
+      "enabled": true,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gorilla.png",
+      "versions": [ "0.0" ]
+    }
+  ]
+}

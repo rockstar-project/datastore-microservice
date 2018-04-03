@@ -1,0 +1,8 @@
+{
+  "slug": "spa",
+  "title": "Web App",
+  "display_order": 2,
+  "enabled": true,
+  "description": "Transform Ideas into Modern Apps in weeks",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+}

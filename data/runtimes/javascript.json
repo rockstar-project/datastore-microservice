@@ -1,0 +1,70 @@
+{
+  "slug": "javascript",
+  "title": "JavaScript",
+  "enabled": true,
+  "display_order": 10,
+  "description": "",
+  "stack": "frontend",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/javascript.png",
+  "versions": [
+    "0.0"
+  ],
+  "frameworks": [
+    {
+      "slug": "emberjs",
+      "title": "EmberJS",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/emberjs.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "knockout",
+      "title": "Knockout",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/knockout.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "polymer",
+      "title": "Polymer",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/polymer.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "vue",
+      "title": "Vue.js",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vuejs.png",
+      "versions": [
+        "2.5.12", "2.5.13"
+      ]
+    },
+    {
+      "slug": "backbone",
+      "title": "Backbone",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/backbone.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "jquery",
+      "title": "JQuery",
+      "enabled": true,
+      "display_order": 6,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jquery.png",
+      "versions": [ "0.0" ]
+    }
+  ]
+}

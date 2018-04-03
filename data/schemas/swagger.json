@@ -1,0 +1,9 @@
+{
+  "slug": "swagger",
+  "title": "Swagger",
+  "enabled": true,
+  "description": "",
+  "display_order": 2,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/swagger.png",
+  "versions": [ "2" ]
+}

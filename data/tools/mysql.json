@@ -1,0 +1,12 @@
+{
+  "slug": "mysql",
+  "title": "MySQL",
+  "enabled": true,
+  "display_order": 2,
+  "description": "",
+  "thumbnail": "https://icongr.am/devicon/mysql-original-wordmark.svg?size=200",
+  "versions": [
+    "5.6",
+    "5.7"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "nodejs",
+  "title": "NodeJS",
+  "enabled": true,
+  "description": "",
+  "display_order": 2,
+  "stack": "backend",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nodejs-icon.png",
+  "versions": [ "7.2.0", "8.9.3" ],
+  "frameworks": [
+    {
+      "slug": "expressjs",
+      "title": "Express",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/express.png",
+      "versions": [ "4.16.1", "4.16.2" ]
+    },
+    {
+       "slug": "hapi",
+      "title": "HAPI",
+      "display_order": 3,
+      "enabled": true,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi.svg",
+      "versions": [ "16.6.2", "17.2.0" ]
+    },
+    {
+      "slug": "loopback",
+      "title": "Loopback",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/strongloop.svg",
+      "versions": [ "6.0.3" ]
+    },
+    {
+      "slug": "restify",
+      "title": "Restify",
+      "display_order": 2,
+      "enabled": true,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/restify.png",
+      "versions": [ "6.3.4" ]
+    },
+    {
+      "slug": "seneca",
+      "title": "Seneca",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/seneca.svg",
+      "versions": [ "3.4" ]
+    }
+  ]
+}

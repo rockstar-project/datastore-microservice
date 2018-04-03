@@ -1,0 +1,13 @@
+{
+  "slug": "rabbitmq",
+  "title": "RabbitMQ",
+  "enabled": true,
+  "display_order": 1,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rabbitmq.png",
+  "versions": [
+    "3.5.3-management",
+    "3.6.2-management",
+    "3.7.2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "jsonschema",
+  "title": "JSONSchema",
+  "enabled": true,
+  "description": "",
+  "display_order": 5,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jsonschema.png",
+  "versions": [ "draft-04", "draft-06", "draft-07" ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "dockerhub",
+  "title": "Docker Hub",
+  "enabled": true,
+  "display_order": 1,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/docker.png",
+  "versions": [ "Hosted" ]
+}

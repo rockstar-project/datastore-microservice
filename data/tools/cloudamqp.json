@@ -1,0 +1,11 @@
+{
+  "slug": "cloudamqp",
+  "title": "CloudAMQP",
+  "enabled": true,
+  "display_order": 3,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudamqp.png",
+  "versions": [
+    "Hosted"
+  ]
+}

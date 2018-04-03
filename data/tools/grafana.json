@@ -1,0 +1,11 @@
+{
+  "slug": "grafana",
+  "title": "Grafana",
+  "enabled": true,
+  "display_order": 2,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/grafana.svg",
+  "versions": [
+    "4.6.3"
+  ]
+}

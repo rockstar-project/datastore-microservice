@@ -1,0 +1,7 @@
+{
+  "slug": "schema",
+  "title": "API-First Approach",
+  "enabled": true,
+  "description": "Create reusable digital assets with domain-specific APIs",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/schema.png"
+}

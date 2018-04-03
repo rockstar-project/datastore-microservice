@@ -1,0 +1,11 @@
+{
+  "slug": "make",
+  "title": "GNU Make",
+  "enabled": true,
+  "display_order": 5,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gnumake.png",
+  "versions": [
+    "0.0.0"
+  ]
+}

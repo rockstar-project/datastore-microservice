@@ -1,0 +1,11 @@
+{
+  "slug": "jsonld",
+  "title": "JSON-LD",
+  "enabled": true,
+  "display_order": 8,
+  "description": "JSON-LD organizes and connects data, creating a better Web",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/json-ld.png",
+  "versions": [ "1.1", "1.0" ],
+  "sample_url": "https://api.swaggerhub.com/apis/rockstar/Collections/1.0.0/swagger.json",
+  "format": "json"
+}

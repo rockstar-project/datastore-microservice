@@ -1,0 +1,11 @@
+{
+  "slug": "apiblueprint",
+  "title": "API Blueprint",
+  "enabled": true,
+  "display_order": 4,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiblueprint.png",
+  "versions": [ "1A" ],
+  "sample_url": "https://api.swaggerhub.com/apis/rockstar/Collections/1.0.0/swagger.json",
+  "format": "markdown"
+}

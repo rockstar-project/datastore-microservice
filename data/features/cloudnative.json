@@ -1,0 +1,8 @@
+{
+  "slug": "cloudnative",
+  "title": "Cloud Native Capabilities",
+  "display_order": 4,
+  "enabled": true,
+  "description": "Common ingredients to design, build and run microservices",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless.png"
+}

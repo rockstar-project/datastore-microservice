@@ -1,0 +1,9 @@
+{
+  "slug": "openapi",
+  "title": "Open API",
+  "enabled": true,
+  "description": "",
+  "display_order": 1,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/openapi3.png",
+  "versions": [ "3" ]
+}

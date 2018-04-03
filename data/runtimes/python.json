@@ -1,0 +1,48 @@
+{
+  "slug": "python",
+  "title": "Python",
+  "enabled": true,
+  "description": "",
+  "display_order": 3,
+  "stack": "backend",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/python.png",
+  "python": [ "2.7", "3.4", "3.5", "3.6" ],
+  "frameworks": [
+    {
+      "slug": "django",
+      "title": "Django",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "falcon",
+      "title": "Falcon",
+      "display_order": 3,
+      "enabled": true,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
+      "versions": [ "1.4.0b2" ]
+    },
+    {
+      "slug": "flask",
+      "title": "Flask",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/flask.png",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "nameko",
+      "title": "Nameko",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nameko.png",
+      "versions": [ "0.0" ]
+    }
+  ]
+}

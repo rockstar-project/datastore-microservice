@@ -1,0 +1,9 @@
+{
+  "slug": "rancher",
+  "title": "Rancher",
+  "enabled": true,
+  "display_order": 2,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rancher.png",
+  "versions": [ "v1.6.15", "v2.0.0-alpha24" ]
+}

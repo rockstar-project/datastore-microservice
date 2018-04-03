@@ -1,0 +1,11 @@
+{
+  "slug": "formio",
+  "title": "Form IO",
+  "enabled": false,
+  "description": "",
+  "display_order": 5,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/formio.jpg",
+  "versions": [ "Hosted" ],
+  "sample_url": "https://api.swaggerhub.com/apis/rockstar/Collections/1.0.0/swagger.json",
+  "format": "form"
+}

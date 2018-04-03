@@ -1,0 +1,8 @@
+{
+  "slug": "ios",
+  "title": "IOS",
+  "display_order":"6",
+  "description": "",
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ios.svg"
+}

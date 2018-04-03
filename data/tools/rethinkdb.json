@@ -1,0 +1,13 @@
+{
+  "slug": "rethinkdb",
+  "title": "RethinkDB",
+  "enabled": true,
+  "display_order": 5,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
+  "versions": [
+    "2.3.4",
+    "2.3.5",
+    "2.3.6"
+  ]
+}

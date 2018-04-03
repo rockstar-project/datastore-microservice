@@ -1,0 +1,36 @@
+{
+  "slug": "typescript",
+  "title": "TypeScript",
+  "enabled": true,
+  "display_order": 9,
+  "description": "",
+  "stack": "frontend",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/typescript.png",
+  "versions": [
+    "2.5.3", "2.6", "2.7"
+  ],
+  "frameworks": [
+    {
+      "slug": "angular",
+      "title": "Angular",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/angularjs.png",
+      "versions": [
+        "2.0", "4.0", "5.0"
+      ]
+    },
+    {
+      "slug": "ionic",
+      "title": "Ionic",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ionic.png",
+      "versions": [
+        "3.9.2"
+      ]
+    }
+  ]
+}

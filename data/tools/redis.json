@@ -1,0 +1,11 @@
+{
+  "slug": "redis",
+  "title": "Redis",
+  "enabled": true,
+  "display_order": 12,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis.svg",
+  "versions": [
+    "4.0.6"
+  ]
+}
