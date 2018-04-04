@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springcloud-stream-rabbitmq",
+  "title": "Spring Cloud Stream Rabbitmq",
   "enabled": true,
   "display_order": 1,
   "description": "",

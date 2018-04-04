@@ -1,0 +1,8 @@
+{
+  "slug": "gateway",
+  "title": "API Gateway",
+  "enabled": true,
+  "display_order": 1,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gatewayservice.jpg",
+  "description": ""
+},

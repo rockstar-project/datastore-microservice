@@ -1,0 +1,8 @@
+{
+  "slug": "logmanagement",
+  "title": "Centralized Logging",
+  "display_order": 7,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/logmanagement.png",
+  "description": ""
+}

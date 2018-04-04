@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springdata-redis",
+  "title": "Spring Data Redis",
   "enabled": true,
   "display_order": 1,
   "description": "",

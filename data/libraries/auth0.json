@@ -1,6 +1,6 @@
 {
-  "slug": "lib-auth0",
-  "title": "Security",
+  "slug": "auth0-sdk",
+  "title": "Auth0 SDK",
   "enabled": true,
   "display_order": 1,
   "description": "",

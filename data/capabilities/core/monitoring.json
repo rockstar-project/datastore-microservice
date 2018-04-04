@@ -1,0 +1,7 @@
+{
+  "slug": "monitoring",
+  "title": "Monitoring",
+  "enabled": true,
+  "display_order": 11,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/monitoring.png"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "security",
+  "title": "Security",
+  "enabled": true,
+  "display_order": 3,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+  "description": "",
+  "options": [
+    "/tools/auth0",
+    "/tools/okta"
+  ]
+}

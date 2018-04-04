@@ -1,0 +1,8 @@
+{
+  "slug": "messaging",
+  "title": "Message Broker",
+  "display_order": 3,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messaging.png",
+  "description": ""
+}

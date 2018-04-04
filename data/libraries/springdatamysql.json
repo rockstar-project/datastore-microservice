@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "driver-mysql",
+  "title": "MySQL Driver",
   "enabled": true,
   "display_order": 1,
   "description": "",

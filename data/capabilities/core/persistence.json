@@ -1,0 +1,8 @@
+{
+  "slug": "persistence",
+  "title": "Data persistence",
+  "enabled": true,
+  "display_order": 2,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springdata.png",
+  "description": ""
+}

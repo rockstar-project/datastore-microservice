@@ -1,0 +1,8 @@
+{
+  "slug": "logging",
+  "title": "Logging",
+  "enabled": true,
+  "display_order": 13,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/logging.png",
+  "description": ""
+}

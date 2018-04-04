@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springcloud-netflix-eureka",
+  "title": "Spring Cloud Netflix Eureka",
   "enabled": true,
   "display_order": 1,
   "description": "",

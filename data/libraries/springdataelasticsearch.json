@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springdata-elasticsearch",
+  "title": "Spring Data Elastic Search",
   "enabled": true,
   "display_order": 1,
   "description": "",

@@ -1,0 +1,9 @@
+{
+  "slug": "registryservice",
+  "title": "Registry Service",
+  "enabled": true,
+  "display_order": 9,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/registryservice.png",
+  "description": "",
+  "versions": [ "0.0" ]
+}

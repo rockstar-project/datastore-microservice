@@ -1,0 +1,8 @@
+{
+  "slug": "apidoc",
+  "title": "Api Documentation",
+  "display_order": 1,
+  "enabled": false,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apidoc.png",
+  "description": ""
+}

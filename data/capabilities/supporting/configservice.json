@@ -1,0 +1,8 @@
+{
+  "slug": "configservice",
+  "title": "Configuration Service",
+  "enabled": true,
+  "display_order": 8,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/configservice.png",
+  "description": ""
+}

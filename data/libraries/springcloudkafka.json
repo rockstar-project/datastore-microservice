@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springcloud-stream-kafka",
+  "title": "Spring Cloud Stream Kafka",
   "enabled": true,
   "display_order": 1,
   "description": "",

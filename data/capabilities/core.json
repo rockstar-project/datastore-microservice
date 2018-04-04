@@ -1,34 +1,8 @@
 {
   "slug": "core",
   "title": "Core Capabilities",
-  "displayOrder": 1,
+  "display_order": 1,
   "enabled": true,
   "description": "",
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/core.png",
-  "items": [
-    {
-      "slug": "web",
-      "title": "Web Framework",
-      "enabled": true,
-      "displayOrder": 1,
-      "description": "",
-      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/webframework.png"
-    },
-    {
-      "slug": "datastore",
-      "title": "Datastore",
-      "enabled": true,
-      "displayOrder": 2,
-      "description": "",
-      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/database.png"
-    },
-    {
-      "slug": "discovery",
-      "title": "Discovery",
-      "enabled": true,
-      "displayOrder": 4,
-      "description": "",
-      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery.png"
-    },
-  ]
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/core.png"
 }

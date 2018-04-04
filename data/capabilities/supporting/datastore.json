@@ -1,0 +1,8 @@
+{
+  "slug": "datastore",
+  "title": "Database",
+  "display_order": 2,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datastore.png",
+  "description": ""
+}

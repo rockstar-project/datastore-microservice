@@ -1,6 +1,6 @@
 {
-  "slug": "",
-  "title": "",
+  "slug": "springdata-cassandra",
+  "title": "Spring Data Cassandra",
   "enabled": true,
   "display_order": 1,
   "description": "",

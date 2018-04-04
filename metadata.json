@@ -1,0 +1,1849 @@
+[
+  {
+    "_id": "801b6144-090a-4832-8c07-84e7ad4ac060",
+    "slug": "microservice",
+    "title": "Marketplace of Microservices",
+    "enabled": true,
+    "description": "Developers marketplace for publishing, discovering and consuming microservice code artifacts",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/microservice.png"
+  },
+  {
+    "_id": "fd69938e-4f6d-4188-913d-c3bc0bedbb96",
+    "group": "microservice",
+    "slug": "architecture",
+    "title": "Architecture Patterns",
+    "display_order": 1,
+    "enabled": true,
+    "description": "Apply cloud-native patterns & best practices with confidence",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+  },
+  {
+    "_id": "e15f9fa2-a5c3-4b70-bf2d-59faa114415b",
+    "group": "microservice",
+    "slug": "specification",
+    "title": "API-First Approach",
+    "display_order": 2,
+    "enabled": true,
+    "description": "Create reusable digital assets with domain-specific APIs",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/schema.png"
+  },
+  {
+    "_id": "c3d281c4-37e6-4e77-aa73-96a1f3764842",
+    "group": "microservice",
+    "slug": "language",
+    "title": "Language & Framework",
+    "display_order": 3,
+    "enabled": true,
+    "description": "Tailored to your programming language and framework of choice",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/customize.png"
+  },
+  {
+    "_id": "633d4983-c419-4f91-a8f5-2ce75bf6aa5c",
+    "group": "microservice",
+    "slug": "capabilities",
+    "title": "Cloud Native Capabilities",
+    "display_order": 4,
+    "enabled": true,
+    "description": "Common ingredients to design, build and run microservices",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless.png"
+  },
+  {
+    "_id": "75948e65-ca3e-4b54-bae0-65ae7105418f",
+    "group": "architecture",
+    "slug": "restapi",
+    "title": "REST API",
+    "display_order": 2,
+    "description": "Low-code development in enterprise-grade runtimes & frameworks",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+  },
+  {
+    "_id": "5d6e7680-9654-4a0d-9a82-37d3108523a6",
+    "group": "architecture",
+    "slug": "serverless",
+    "title": "Serverless Function",
+    "display_order": 4,
+    "description": "Isolate business logic into a long-running job or short-lived task",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless.png"
+  },
+  {
+    "_id": "8d395d81-2c48-4d0c-822f-c1c0899a9377",
+    "group": "architecture",
+    "slug": "eventdriven",
+    "title": "Event Driven",
+    "description": "Integration with everything. Easily connect your apps to any system",
+    "display_order": 3,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/event-driven.png"
+  },
+  {
+    "_id": "4379b9b5-2515-468d-928a-6aacb4119df3",
+    "group": "architecture",
+    "slug": "spa",
+    "title": "Web App",
+    "display_order": 1,
+    "description": "Transform Ideas into Modern Apps in weeks",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/webapp.png"
+  },
+  {
+    "_id": "726e9f5d-a63b-402d-a5dd-23eebe6ed066",
+    "group": "architecture",
+    "slug": "mobile",
+    "title": "Mobile",
+    "display_order": 5,
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mobile.png"
+  },
+  {
+    "_id": "ddf1362d-8f74-41e8-9b2c-293c2f209c5a",
+    "group": "mobile",
+    "slug": "ios",
+    "title": "IOS",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ios.svg"
+  },
+  {
+    "_id": "90736c6b-e1bb-4555-8a9a-fc02181fcdcf",
+    "group": "mobile",
+    "slug": "andriod",
+    "title": "Andriod",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/andriod.png"
+  },
+  {
+    "_id": "bfd9cbd2-d534-4358-9986-ad4dd9953485",
+    "group": "other",
+    "slug": "document",
+    "title": "Documentation",
+    "display_order": 1,
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/designdoc.png"
+  },
+  {
+    "_id": "beb60762-19d9-476c-8555-3a539be7d218",
+    "category": "restapi",
+    "group": "capabilities",
+    "slug": "core",
+    "title": "Core Capabilities",
+    "display_order": 1,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/core.png"
+  },
+  {
+    "_id": "58504107-4e1a-4a71-8285-e6f32d54956a",
+    "category": "restapi",
+    "group": "capabilities",
+    "slug": "platform",
+    "title": "Supporting Capabilities",
+    "display_order": 2,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/platform.png"
+  },
+  {
+    "_id": "85bc5a11-07af-4830-8587-87b008d7b0d3",
+    "category": "restapi",
+    "group": "capabilities",
+    "slug": "devops",
+    "title": "Continuous Integration",
+    "description": "",
+    "display_order": 3,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/devops.png"
+  },
+  {
+    "_id": "15ecdb05-cbb0-4a43-a7f3-3739d2a5879e",
+    "category": "restapi",
+    "group": "core",
+    "slug": "web",
+    "title": "Web Framework",
+    "enabled": true,
+    "display_order": 1,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/singlepage.png"
+  },
+  {
+    "_id": "8844d55f-f972-47a7-acf3-8246ff493112",
+    "category": "restapi",
+    "group": "core",
+    "slug": "persistence",
+    "title": "Polyglot Datastore",
+    "enabled": true,
+    "display_order": 2,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/database.png"
+  },
+  {
+    "_id": "127e6b1b-f7c6-4120-97ff-62826ef8f690",
+    "category": "restapi",
+    "group": "core",
+    "slug": "discovery",
+    "title": "Discovery",
+    "enabled": true,
+    "display_order": 4,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery.png"
+  },
+  {
+    "_id": "051db54a-befe-414b-a09a-2e5b8a11dc98",
+    "category": "restapi",
+    "group": "core",
+    "slug": "security",
+    "title": "Security",
+    "enabled": true,
+    "display_order": 3,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png"
+  },
+  {
+    "_id": "53f7a051-1b7e-4186-9c07-f983a4e5c864",
+    "category": "restapi",
+    "group": "core",
+    "slug": "messaging",
+    "title": "Messaging",
+    "enabled": true,
+    "display_order": 5,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messaging.png"
+  },
+  {
+    "_id": "dfc9adf9-98b1-42e1-8566-9119a3d3d263",
+    "category": "restapi",
+    "group": "core",
+    "slug": "httprouting",
+    "title": "Http",
+    "enabled": true,
+    "display_order": 6,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/http.png"
+  },
+  {
+    "_id": "30ad259a-714f-468f-bb03-bfef93c8606b",
+    "category": "restapi",
+    "group": "core",
+    "slug": "datavalidation",
+    "title": "Data Validation",
+    "enabled": true,
+    "display_order": 7,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datavalidation.png"
+  },
+  {
+    "_id": "0942a951-6a71-4447-ac37-6b4c84818e30",
+    "category": "restapi",
+    "group": "core",
+    "slug": "search",
+    "title": "Search",
+    "enabled": true,
+    "display_order": 8,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/pagingsorting.png"
+  },
+  {
+    "_id": "c2fca133-a4b6-49ac-8692-ee29e0064452",
+    "category": "restapi",
+    "group": "core",
+    "slug": "dataio",
+    "title": "Data Binding",
+    "enabled": true,
+    "display_order": 9,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dataio.png"
+  },
+  {
+    "_id": "c5c2508b-f12c-4674-b46e-2d4fe7f3db0c",
+    "category": "restapi",
+    "group": "core",
+    "slug": "tracing",
+    "title": "Tracing",
+    "enabled": true,
+    "display_order": 10,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tracing.png"
+  },
+  {
+    "_id": "3788cf09-6c64-4658-9bc6-cbb43bcbc0ba",
+    "category": "restapi",
+    "group": "core",
+    "slug": "monitoring",
+    "title": "Monitoring",
+    "enabled": true,
+    "display_order": 11,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/monitoring.png"
+  },
+  {
+    "_id": "20ac3731-4617-4520-a879-56b75b79d0f2",
+    "category": "restapi",
+    "group": "core",
+    "slug": "lb",
+    "title": "Load Balancing",
+    "enabled": true,
+    "display_order": 12,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/share.png"
+  },
+  {
+    "_id": "06b573b8-609b-4b11-8d6b-67199824d2bd",
+    "category": "restapi",
+    "group": "core",
+    "slug": "resilience",
+    "title": "Resilience",
+    "enabled": true,
+    "display_order": 13,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/resilience.png"
+  },
+  {
+    "_id": "ba11474a-c5a8-46b9-9cfd-15b862aefc93",
+    "group": "language",
+    "category": "restapi",
+    "slug": "java",
+    "title": "Java",
+    "enabled": true,
+    "thumbnail": "https://icongr.am/devicon/java-original.svg?size=200",
+    "versions": [
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "_id": "633f216e-d012-4541-b2eb-e2c636facccf",
+    "group": "language",
+    "category": "restapi",
+    "slug": "golang",
+    "title": "Go",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/golang.png",
+    "versions": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "_id": "0e4cb66a-d2f2-4d03-91bc-cd14bddb0713",
+    "group": "language",
+    "category": "restapi",
+    "slug": "nodejs",
+    "title": "NodeJS",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nodejs-icon.png",
+    "versions": [
+      "7.2.0", "8.9.3"
+    ]
+  },
+  {
+    "_id": "6528f41a-3b68-4de7-95fa-cf827fcb4df8",
+    "group": "language",
+    "category": "restapi",
+    "slug": "python",
+    "title": "Python",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/python.png",
+    "python": [
+      "2.7",
+      "3.4",
+      "3.5",
+      "3.6"
+    ]
+  },
+  {
+    "_id": "aee1f142-2180-4026-8e87-fb9a3662656b",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "datastore",
+    "title": "Database",
+    "display_order": 2,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datastore.png"
+  },
+  {
+    "_id": "5e9155fa-9c13-4c67-a330-af7c95b5dfe1",
+    "group": "supporting",
+    "slug": "http",
+    "title": "Http Server",
+    "display_order": 1,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/https.png"
+  },
+  {
+    "_id": "b580bb0a-2157-46bf-87c8-f2c4f3165a97",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "messaging",
+    "title": "Messaging",
+    "display_order": 3,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messaging.png"
+  },
+  {
+    "_id": "2fcdbc1c-6df2-490b-a7b6-529b48cd4d39",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "discovery",
+    "title": "Discovery",
+    "display_order": 4,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery.png"
+  },
+  {
+    "_id": "bfc77d75-1558-4998-8c88-e0699594bc90",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "security",
+    "title": "Security",
+    "display_order": 9,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png"
+  },
+  {
+    "_id": "d544d09e-580b-47a7-b58f-d08a5f46062d",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "monitoring",
+    "title": "Monitoring",
+    "display_order": 8,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/monitoring.png"
+  },
+  {
+    "_id": "b9beeacc-e62c-40df-8f07-a742bdd3e89f",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "resilience",
+    "title": "Resilience",
+    "display_order": 6,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/resilience.png"
+  },
+  {
+    "_id": "d019b334-5fc0-43d2-bd02-0eff743fb395",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "tracing",
+    "title": "Tracing",
+    "display_order": 7,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tracing.png"
+  },
+  {
+    "_id": "28b65769-4c72-4a87-9c8e-0e60424dec1d",
+    "group": "supporting",
+    "category": "restapi",
+    "slug": "gateway",
+    "title": "API Gateway",
+    "display_order": 5,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gateway.png"
+  },
+  {
+    "_id": "a62b741e-8aa4-4f86-8f76-0cf735f6ef5b",
+    "group": "devops",
+    "slug": "build",
+    "title": "Build",
+    "display_order": 3,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/build.png"
+  },
+  {
+    "_id": "7377698c-1391-406b-9563-42ed412159a2",
+    "group": "devops",
+    "slug": "test",
+    "title": "API Test",
+    "display_order": 4,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/test.png"
+  },
+  {
+    "_id": "a40358f6-4b2e-499c-9b5a-415ac7878462",
+    "group": "devops",
+    "slug": "distribution",
+    "title": "Distribution",
+    "display_order": 5,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/package.png"
+  },
+  {
+    "_id": "6fa83e55-7b46-464c-956a-295986599675",
+    "group": "devops",
+    "slug": "scm",
+    "title": "Code Repository",
+    "display_order": 1,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/scm.png"
+  },
+  {
+    "_id": "b8e9dc2c-f01d-4110-bf7d-e0e12e50e8c9",
+    "group": "devops",
+    "slug": "cd",
+    "title": "Continuous Deployment",
+    "display_order": 6,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cd.png"
+  },
+  {
+    "_id": "5d2072ed-7362-4d05-a0b3-0b44bb101636",
+    "group": "devops",
+    "slug": "ci",
+    "title": "Continuous Integration",
+    "display_order": 2,
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ci.png"
+  },
+  {
+    "_id": "60df732f-b104-4903-b45a-e355412c9158",
+    "group": "framework",
+    "category": "java",
+    "slug": "springboot",
+    "title": "Spring Boot",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springboot.png",
+    "versions": [
+      "1.5.4.RELEASE",
+      "1.5.9.RELEASE",
+      "2.0.0.RELEASE"
+    ]
+  },
+  {
+    "_id": "bc0f6f6d-6d91-48df-b69a-8270e372d519",
+    "group": "framework",
+    "category": "java",
+    "slug": "dropwizard",
+    "title": "DropWizard",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "837bf068-e5e2-456e-b755-d41d4b640825",
+    "group": "framework",
+    "category": "java",
+    "slug": "vertx",
+    "title": "VERT.X",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
+    "versions": [
+      "3.5.0"
+    ]
+  },
+  {
+    "_id": "eb81c4e2-e728-454b-8ba8-dd6c1a2467a0",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "cote",
+    "title": "Cote",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cote.png",
+    "versions": [
+      "0.16.1"
+    ]
+  },
+  {
+    "_id": "bbc2ee17-06f2-41af-b22d-0c33417e97f6",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "seneca",
+    "title": "Seneca",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/seneca.svg",
+    "versions": [
+      "3.4."
+    ]
+  },
+  {
+    "_id": "22d82d6f-0d9a-4a00-a9ca-d6eb78d20e03",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "restify",
+    "title": "Restify",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/restify.png",
+    "versions": [
+      "6.3.4"
+    ]
+  },
+  {
+    "_id": "8ccc908a-18bb-4b72-a708-f096d56714d7",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "express",
+    "title": "Express",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/express.png",
+    "versions": [
+      "4.16.1",
+      "4.16.2"
+    ]
+  },
+  {
+    "_id": "79977896-f920-4396-98a8-ba4a978bffef",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "loopback",
+    "title": "Loopback",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/strongloop.svg",
+    "versions": [
+      "6.0.3"
+    ]
+  },
+  {
+    "_id": "c558e49e-5e4f-4ed5-b604-396e2daecd81",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "hapi",
+    "title": "HAPI",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi.svg",
+    "versions": [
+      "16.6.2",
+      "17.2.0"
+    ]
+  },
+  {
+    "_id": "a252f1ce-ab8d-42bd-98a3-d38383d84c86",
+    "group": "framework",
+    "category": "nodejs",
+    "slug": "connexion",
+    "title": "Connexion",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/connexion.png",
+    "versions": [
+      "1.2"
+    ]
+  },
+  {
+    "_id": "4cf959f8-e374-4996-86bd-4939c72de334",
+    "group": "framework",
+    "category": "python",
+    "slug": "falcon",
+    "title": "Falcon",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
+    "versions": [
+      "1.4.0b2"
+    ]
+  },
+  {
+    "_id": "67fccc74-ae29-4cc5-bae6-80b5b6b8f3dc",
+    "group": "framework",
+    "category": "python",
+    "slug": "nameko",
+    "title": "Nameko",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nameko.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "23791622-aa20-47f7-b89e-9341bdf33b4f",
+    "group": "framework",
+    "category": "python",
+    "slug": "django",
+    "title": "Django",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "1718f905-57f9-4486-9014-513c9bffbb19",
+    "group": "framework",
+    "category": "python",
+    "slug": "flask",
+    "title": "Flask",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/flask.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "5f490499-e151-4cd7-8f8f-1d6ad7e2ed66",
+    "group": "framework",
+    "category": "golang",
+    "slug": "gokit",
+    "title": "Go kit",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gokit.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "90d0aabd-f216-4092-b6e4-4eb758bbcee3",
+    "group": "framework",
+    "category": "golang",
+    "slug": "beego",
+    "title": "Beego",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "e6f3d49d-fc48-4cec-9993-f12633433dd1",
+    "group": "framework",
+    "category": "golang",
+    "slug": "gorilla",
+    "title": "Gorilla",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gorilla.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "384aca57-2134-4392-8f26-66ba963dc722",
+    "group": "framework",
+    "category": "golang",
+    "slug": "gin",
+    "title": "Gin",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "448d354f-ab4e-441f-bb47-2cba4c714ee6",
+    "group": "framework",
+    "category": "golang",
+    "slug": "gizmo",
+    "title": "Gizmo",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "b4118623-7f4f-4521-a377-700dcfeadbcf",
+    "group": "datastore",
+    "slug": "mysql",
+    "title": "MySQL",
+    "enabled": true,
+    "thumbnail": "https://icongr.am/devicon/mysql-original-wordmark.svg?size=200",
+    "versions": [
+      "5.6",
+      "5.7"
+    ]
+  },
+  {
+    "_id": "277d6472-0525-49bb-953d-fcb7864a182d",
+    "group": "datastore",
+    "slug": "postgresql",
+    "title": "PostgreSQl",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/postgresql_white.png",
+    "versions": [
+      "9.6.6",
+      "10.1"
+    ]
+  },
+  {
+    "_id": "45f8f572-422a-4593-954e-8eeea7ef30df",
+    "group": "datastore",
+    "slug": "cloudant",
+    "title": "Cloudant",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudant.svg"
+  },
+  {
+    "_id": "4d7ed530-f258-464f-9b1c-7bf532c76659",
+    "group": "datastore",
+    "slug": "rethinkdb",
+    "title": "RethinkDB",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
+    "versions": [
+      "2.3.4",
+      "2.3.5",
+      "2.3.6"
+    ]
+  },
+  {
+    "_id": "833524e8-0b9b-4667-8e53-a72964f363ad",
+    "group": "datastore",
+    "slug": "mariadb",
+    "title": "MariaDB",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+    "versions": [
+      "10.1",
+      "10.2",
+      "10.3"
+    ]
+  },
+  {
+    "_id": "2f5021b4-1046-4a75-ac6b-d92a0703b2de",
+    "group": "datastore",
+    "slug": "mongodb",
+    "title": "MongoDB",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mongodb.png",
+    "versions": [
+      "3.0",
+      "3.4",
+      "3.6"
+    ]
+  },
+  {
+    "_id": "c025772b-8df1-47d1-9398-bfd5da2d1ec6",
+    "group": "datastore",
+    "slug": "couchdb",
+    "title": "CouchDB",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb.svg",
+    "versions": [
+      "1.7.1",
+      "2.1.1"
+    ]
+  },
+  {
+    "_id": "efcd201b-05cf-4222-8e45-759c92ddbfed",
+    "group": "datastore",
+    "slug": "elastsearch",
+    "title": "Elastic Search",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/elasticsearch.svg",
+    "versions": [
+      "5.2",
+      "6.1"
+    ]
+  },
+  {
+    "_id": "1c458bba-7651-4423-9258-5d67ab3c99e7",
+    "group": "datastore",
+    "slug": "neo4j",
+    "title": "Neo4j",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/neo4j.png",
+    "versions": [
+      "3.2.6",
+      "3.3.3"
+    ]
+  },
+  {
+    "_id": "39060b2b-f59f-4c58-94b2-8c43276d4a06",
+    "group": "datastore",
+    "slug": "cassandra",
+    "title": "Cassandra",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra.png",
+    "versions": [
+      "3.11.1"
+    ]
+  },
+  {
+    "_id": "6e6e30d6-265c-4b35-a21b-0982c89e0e86",
+    "group": "datastore",
+    "slug": "redis",
+    "title": "Redis",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis.svg",
+    "versions": [
+      "4.0.6"
+    ]
+  },
+  {
+    "_id": "3515c4e8-8d40-4f45-999f-be3a8424bb1d",
+    "group": "http",
+    "slug": "tomcat",
+    "title": "Tomcat",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tomcat.png",
+    "versions": [
+      "8.5.23"
+    ]
+  },
+  {
+    "_id": "9dba7926-bfe0-4770-bb63-eb6039597183",
+    "group": "http",
+    "slug": "jetty",
+    "title": "Jetty",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jetty.svg"
+  },
+  {
+    "_id": "7994432f-97c9-4fa2-b175-7227b5b854b5",
+    "group": "http",
+    "slug": "nginx",
+    "title": "NGINX",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nginx.png"
+  },
+  {
+    "_id": "45da685c-4315-4542-9047-1b0776bf703d",
+    "group": "http",
+    "slug": "caddy",
+    "title": "Caddy",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/caddy.svg"
+  },
+  {
+    "_id": "cd6e43fe-4b5b-44ce-9ffa-ae8dced50b56",
+    "group": "http",
+    "slug": "iis",
+    "title": "IIS",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/iis.svg"
+  },
+  {
+    "_id": "349866db-4199-4272-a3c4-76cb34781ab2",
+    "group": "messaging",
+    "slug": "rabbitmq",
+    "title": "RabbitMQ",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rabbitmq.png",
+    "versions": [
+      "3.5.3-management",
+      "3.6.2-management",
+      "3.7.2"
+    ]
+  },
+  {
+    "_id": "66ca4576-ccc3-4d85-8ac6-37b2c3db295e",
+    "group": "messaging",
+    "slug": "kafka",
+    "title": "Kafka",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kafka_blue.png",
+    "versions": [
+      "1.0"
+    ]
+  },
+  {
+    "_id": "21d66d54-f324-4e03-b7d3-ebd0112a5532",
+    "group": "messaging",
+    "slug": "nats",
+    "title": "NATS",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  {
+    "_id": "ff89cebc-55f0-450f-b025-38689fed16e1",
+    "group": "messaging",
+    "slug": "cloudamqp",
+    "title": "CloudAMQP",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudamqp.png",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "b60ed261-f65d-475f-909d-5389490e46b3",
+    "group": "messaging",
+    "slug": "messagehub",
+    "title": "IBM MessageHub",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messagehub.png"
+  },
+  {
+    "_id": "c4bf9017-aaa4-4645-968e-a6a0c82a9f36",
+    "group": "gateway",
+    "slug": "zuul",
+    "title": "Zuul",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix-zuul.jpg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "7f9945d7-ce59-4c36-af8b-d80be6dacc97",
+    "group": "gateway",
+    "slug": "kong",
+    "title": "Kong",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kong.svg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "70fd4cba-06de-4261-8219-c335e325ae71",
+    "group": "resilience",
+    "slug": "hystrix",
+    "title": "Hystrix",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix-hystrix.jpg",
+    "versions": [
+      "1.5.12"
+    ]
+  },
+  {
+    "_id": "f0aa9350-c19f-4072-be5d-105d99c043f1",
+    "group": "discovery",
+    "slug": "eureka",
+    "title": "Eureka",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix-eureka.jpg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "10064544-909e-4800-8006-e6427dd6a436",
+    "group": "discovery",
+    "slug": "consul",
+    "title": "Consul",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/consul.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "7c2e51e5-1c6c-4ba1-8fd3-5b9fb69958ca",
+    "group": "discovery",
+    "slug": "etcd",
+    "title": "Etcd",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/etcd.svg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "2ff53d84-4572-438f-9b97-e025efeaf2be",
+    "group": "discovery",
+    "slug": "hydra",
+    "title": "Hydra",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hydra.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "8b9f0b11-26bb-41e2-b1b9-79e133f019ec",
+    "group": "monitoring",
+    "slug": "sensu",
+    "title": "Sensu",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/sensu.svg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "f1b782a8-3598-4c36-bd80-e88331202d4e",
+    "group": "monitoring",
+    "slug": "prometheus",
+    "title": "Prometheus",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/prometheus.svg"
+  },
+  {
+    "_id": "21abeefd-1567-41f9-9c87-6ebc18093a4e",
+    "group": "monitoring",
+    "slug": "grafana",
+    "title": "Grafana",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/grafana.svg",
+    "versions": [
+      "4.6.3"
+    ]
+  },
+  {
+    "_id": "7feab803-9dad-44e3-a37f-9ed688d402c6",
+    "group": "monitoring",
+    "slug": "collectd",
+    "title": "collectd",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/collectd.png"
+  },
+  {
+    "_id": "ec7a726e-97d8-49c9-8159-971372015615",
+    "group": "security",
+    "slug": "okta",
+    "title": "Okta",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/okta.svg",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "30a666ee-5b39-41ab-8a8e-2ff561286649",
+    "group": "security",
+    "slug": "auth0",
+    "title": "Auth0",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/auth0.png",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "ee4e2a8b-49eb-4e59-a633-e4e3dbffd367",
+    "group": "tracing",
+    "slug": "zipkin",
+    "title": "Zipkin",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zipkin.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "dd87c77d-23f3-4a34-b705-43f4cda09303",
+    "group": "tracing",
+    "slug": "jaeger",
+    "title": "Jaeger",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jaeger.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "b965f2bc-9dd8-438c-bed6-33ca7b5720e8",
+    "group": "build",
+    "slug": "ivy",
+    "title": "Ivy",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ivy.png",
+    "versions": [
+      "2.4.0"
+    ]
+  },
+  {
+    "_id": "f2324525-d728-4835-b50b-f2f7cb963cf6",
+    "group": "build",
+    "slug": "maven",
+    "title": "Maven",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
+    "versions": [
+      "3.3.9", "3.5.2"
+    ]
+  },
+  {
+    "_id": "ac2809ab-c3de-4048-8b5b-ae87faf86964",
+    "category": "java",
+    "group": "build",
+    "slug": "gradle",
+    "title": "Gradle",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gradle.png",
+    "versions": [
+      "4.4.1"
+    ]
+  },
+  {
+    "_id": "59d17934-2ff3-40c4-8e22-fe5b0fea07cd",
+    "category": "python",
+    "group": "build",
+    "slug": "pybuilder",
+    "title": "PyBuilder",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/pybuilder.png",
+    "versions": [
+      "0.9.17"
+    ]
+  },
+  {
+    "_id": "6458ce77-649c-4d38-8e01-d0bb1cf7cb91",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "grunt",
+    "title": "Grunt",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/grunt.png",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  {
+    "_id": "971dd14d-0506-4ed3-9944-173b2d720a58",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "gulp",
+    "title": "Gulp",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gulp.png",
+    "versions": [
+      "3.9.1"
+    ]
+  },
+  {
+    "_id": "cf97d3c0-52a9-4ab5-a07b-c48e7e87d42e",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "yarn",
+    "title": "Yarn",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/yarn.png",
+    "versions": [
+      "0.0.0"
+    ]
+  },
+  {
+    "_id": "6b3d1dfb-cb84-460a-b2c8-b4f13c0d8984",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "browerify",
+    "title": "Browserify",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/browerify.png",
+    "versions": [
+      "14.5.0"
+    ]
+  },
+  {
+    "_id": "da955ed4-8a1f-4736-b794-c42b1ffa884b",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "npm",
+    "title": "npm",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/npm_build.png",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "16d7d49d-17dc-494a-ad98-9974674b0c95",
+    "category": "nodejs",
+    "group": "build",
+    "slug": "webpack",
+    "title": "Webpack",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/webpack.png",
+    "versions": [
+      "3.9.1"
+    ]
+  },
+  {
+    "_id": "baef7cdd-1749-415c-a84b-8e49e5330ffa",
+    "group": "build",
+    "slug": "make",
+    "title": "GNU Make",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gnumake.png",
+    "versions": [
+      "0.0.0"
+    ]
+  },
+  {
+    "_id": "3b9d0568-e91c-46f5-aca2-451bea5a1fd8",
+    "category": "nodejs",
+    "group": "test",
+    "slug": "mocha",
+    "title": "Mocha",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mocha.svg",
+    "versions": [
+      "3.0.0"
+    ]
+  },
+  {
+    "_id": "51e7ed09-6e49-432a-b05e-f96a17c5e3ab",
+    "group": "test",
+    "slug": "postman",
+    "title": "Postman",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/postman.png",
+    "versions": [
+      "5.5.0"
+    ]
+  },
+  {
+    "_id": "64473a99-a55c-4bca-8588-1e6a5a4efc5f",
+    "group": "test",
+    "slug": "dredd",
+    "title": "DREDD",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dredd.png",
+    "versions": [
+      "4.7.0"
+    ]
+  },
+  {
+    "_id": "127b2d22-9b64-4f45-b955-718cdad20b6c",
+    "group": "package",
+    "slug": "dockerimage",
+    "title": "Docker Image",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/docker.png",
+    "versions": [
+      "17.09"
+    ]
+  },
+  {
+    "_id": "7d19eb23-78cf-49d7-a405-767f5737b76e",
+    "group": "scm",
+    "slug": "github",
+    "title": "GitHub",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/github.svg"
+  },
+  {
+    "_id": "eedbbc50-42b8-4b09-8ba5-fa63b36e8c1d",
+    "group": "scm",
+    "slug": "bitbucket",
+    "title": "BitBucket",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bitbucket.svg"
+  },
+  {
+    "_id": "1c18f9e8-ee8a-47f0-ac08-7ec1fdeeb351",
+    "group": "scm",
+    "slug": "gitlab",
+    "title": "GitLab",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gitlab.svg"
+  },
+  {
+    "_id": "cf8461d3-8aaa-45b9-a8b4-eac4e08616f9",
+    "group": "ci",
+    "slug": "travis",
+    "title": "Travis CI",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "b3a69072-e7c2-45aa-abca-d2388b810be2",
+    "group": "ci",
+    "slug": "jenkins",
+    "title": "Jenkins",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jenkins.png"
+  },
+  {
+    "_id": "1e656ef6-3454-4073-a11a-9b79e2e60d5d",
+    "group": "ci",
+    "slug": "circleci",
+    "title": "Circle CI",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/circleci.svg"
+  },
+  {
+    "_id": "45996a7f-584d-4bdf-a460-c3d310ebe382",
+    "group": "ci",
+    "slug": "teamcity",
+    "title": "Team City",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/teamcity.svg"
+  },
+  {
+    "_id": "1323c447-8231-4d44-a427-45cf391398a8",
+    "group": "ci",
+    "slug": "codeship",
+    "title": "Code Ship",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/codeship.svg"
+  },
+  {
+    "_id": "6db4eb34-c05c-4bae-a1ce-abf568032291",
+    "group": "ci",
+    "slug": "bamboo",
+    "title": "Bamboo",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bamboo.svg"
+  },
+  {
+    "_id": "5ff640ec-014b-4c7f-8026-520137af2561",
+    "group": "ci",
+    "slug": "wercker",
+    "title": "Wercker",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/wercker.svg"
+  },
+  {
+    "_id": "2aecad4d-f603-42fe-b68e-d1ef29eedb35",
+    "group": "cd",
+    "slug": "bluemix",
+    "title": "Bluemix",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bluemix.svg"
+  },
+  {
+    "_id": "0431577d-81c6-4c72-9d25-78f682b3bfbc",
+    "group": "cd",
+    "slug": "heroku",
+    "title": "Heroku",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/heruku.png"
+  },
+  {
+    "_id": "8278d0e0-42fa-471f-808d-0e181ab9d9f5",
+    "group": "cd",
+    "slug": "rancher",
+    "title": "Rancher",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rancher.png"
+  },
+  {
+    "_id": "5dd157ef-abf1-4211-8331-7720492626af",
+    "group": "cd",
+    "slug": "urbandeploy",
+    "title": "Urban Deploy",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/urbandeploy.png"
+  },
+  {
+    "_id": "6fc1a78e-126a-44c7-ad86-ac118f2851f9",
+    "group": "cd",
+    "slug": "dockercloud",
+    "title": "Docker Cloud",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dockercloud.png",
+    "version": "Hosted"
+  },
+  {
+    "_id": "9b81d710-3e30-4a24-81cb-998cf27857c9",
+    "group": "registry",
+    "slug": "quay",
+    "title": "Quay",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/quay.svg"
+  },
+  {
+    "_id": "e7775125-497e-4674-9bb3-026cf1cb8d8f",
+    "group": "registry",
+    "slug": "jfrog",
+    "title": "JFrog",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jfrog.svg"
+  },
+  {
+    "_id": "5ddb6768-815d-4f10-b652-79d75f4ddfa0",
+    "group": "registry",
+    "slug": "dockerhub",
+    "title": "Docker Hub",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/docker.png"
+  },
+  {
+    "_id": "9a28e127-d6bd-418f-a06e-e92997c08492",
+    "group": "registry",
+    "slug": "ecr",
+    "title": "ECR",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecr.svg"
+  },
+  {
+    "_id": "71498fc3-d69f-4adb-8efc-34bb2e857883",
+    "group": "registry",
+    "slug": "gcr",
+    "title": "Google",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gcr.png"
+  },
+  {
+    "_id": "b31e5ff5-5be6-49c5-9f4e-30946a21e0ad",
+    "group": "registry",
+    "slug": "azr",
+    "title": "Azure",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azr.png"
+  },
+  {
+    "_id": "1dc28458-553f-421c-b031-db88ae47e988",
+    "group": "serverless",
+    "slug": "awsfunction",
+    "title": "Lambda",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/lambda.png"
+  },
+  {
+    "_id": "391b10a8-f994-43f9-aa2c-c523b2eff911",
+    "group": "serverless",
+    "slug": "azurefunction",
+    "title": "Azure",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azurefunction.png"
+  },
+  {
+    "_id": "4de8bcd6-8157-4d85-949d-65c930c40cd6",
+    "group": "serverless",
+    "slug": "ibmfunction",
+    "title": "IBM",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudfunction.png"
+  },
+  {
+    "_id": "de957737-ee4e-4a43-b5ea-f0b18795c3bc",
+    "group": "serverless",
+    "slug": "googlefunction",
+    "title": "Google",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/googlefunction.png"
+  },
+  {
+    "_id": "5f892dfa-a9bc-4692-9191-3e15efc580ab",
+    "group": "spa",
+    "slug": "presentation",
+    "title": "Presentation",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/presentation.png"
+  },
+  {
+    "_id": "a75829b1-84dd-4223-b1d3-8bc585fbc8ca",
+    "group": "spa",
+    "slug": "devops",
+    "title": "Continuous Integration",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/devops.png"
+  },
+  {
+    "_id": "3bccac94-5874-4322-a7f8-4793a77e4343",
+    "group": "presentation",
+    "slug": "framework",
+    "title": "UI Framework",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/javascript.png"
+  },
+  {
+    "_id": "101b5fad-6400-4599-b2b1-0e94c79fd5f2",
+    "group": "presentation",
+    "slug": "uipattern",
+    "title": "UI Design Patterns",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/uipattern.png"
+  },
+  {
+    "_id": "25dfc58e-198b-467c-b18c-b97728e358c4",
+    "group": "presentation",
+    "slug": "theme",
+    "title": "UI Theme",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/uitheme.png"
+  },
+  {
+    "_id": "a7bdcfe0-b638-4386-af60-78d2dcba3868",
+    "category": "ios",
+    "group": "language",
+    "slug": "swift",
+    "title": "Swift",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/swift.png"
+  },
+  {
+    "_id": "89f8457f-dd61-4386-8d8f-1368669e7797",
+    "category": "andriod",
+    "group": "language",
+    "slug": "kotlin",
+    "title": "Kotlin",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kotlin.png"
+  },
+  {
+    "_id": "a8e5f3e5-bd97-4827-8663-cff86f0c1358",
+    "category": "spa",
+    "group": "language",
+    "slug": "typescript",
+    "title": "TypeScript",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/typescript.png",
+    "versions": [
+      "2.5.3", "2.6", "2.7"
+    ]
+  },
+  {
+    "_id": "540a4829-85c1-4657-b957-73e56898efd5",
+    "category": "spa",
+    "group": "language",
+    "slug": "es",
+    "title": "ECMAScript",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecmascript.png",
+    "versions": [
+      "5.0", "5.1", "6.0"
+    ]
+  },
+  {
+    "_id": "151178c5-1c4d-4a9d-85fb-46f715cab270",
+    "category": "typescript",
+    "group": "framework",
+    "slug": "angular",
+    "title": "Angular",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/angularjs.png",
+    "versions": [
+      "2.0", "4.0", "5.0"
+    ]
+  },
+  {
+    "_id": "5120e7da-7071-4120-a5e6-11c080114b3e",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "emberjs",
+    "title": "EmberJS",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/emberjs.png"
+  },
+  {
+    "_id": "21c9b5e0-9eb0-4d32-b53c-8655c82c12fe",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "knockout",
+    "title": "Knockout",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/knockout.png"
+  },
+  {
+    "_id": "c38904c9-08d6-4352-b99e-f58dcc3c1714",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "polymer",
+    "title": "Polymer",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/polymer.png"
+  },
+  {
+    "_id": "6a1290eb-7772-4e6a-a294-94b10b432350",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "vue",
+    "title": "Vue.js",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vuejs.png",
+    "versions": [
+      "2.5.12", "2.5.13"
+    ]
+  },
+  {
+    "_id": "dd83a99a-39ce-48d5-81a6-5ce0e50525ad",
+    "category": "typescript",
+    "group": "framework",
+    "slug": "ionic",
+    "title": "Ionic",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ionic.png",
+    "versions": [
+      "3.9.2"
+    ]
+  },
+  {
+    "_id": "f6cfefdb-dec0-4551-9e2b-3668a899c94f",
+    "category": "ecmascript",
+    "group": "framework",
+    "slug": "react",
+    "title": "React",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/react.png",
+    "versions": [
+      "16.2.0", "16.3.0"
+    ]
+  },
+  {
+    "_id": "ae2169bf-6149-4c91-9e97-34a169c6c79d",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "backbone",
+    "title": "Backbone",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/backbone.png"
+  },
+  {
+    "_id": "948bb114-7c3b-49ea-a066-b769198e71a6",
+    "category": "javascript",
+    "group": "framework",
+    "slug": "jquery",
+    "title": "JQuery",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jquery.png"
+  },
+  {
+    "_id": "94d05636-3928-4fcf-ad4e-727366aed7db",
+    "category": "presentation",
+    "group": "framework",
+    "slug": "bootstrap",
+    "title": "Bootstrap",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bootstrap.png",
+    "versions": [
+      "3.3.7", "4.0.0"
+    ]
+  },
+  {
+    "_id": "1296c47c-0ef8-4738-afbd-73c492ae8c8d",
+    "category": "presentation",
+    "group": "framework",
+    "slug": "materialui",
+    "title": "MaterialUI",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/material-ui-transparent.png",
+    "version": [
+      "v1.0.0-beta.38"
+    ]
+  },
+  {
+    "_id": "4df82c61-b187-4f0d-b472-1e71d8514eaf",
+    "category": "presentation",
+    "group": "framework",
+    "slug": "materialize",
+    "title": "MaterializeCSS",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/materialize.png",
+    "versions": [
+      "1.0.0-beta"
+    ]
+  },
+  {
+    "_id": "e919d14b-4d78-488b-9429-36ff37df34e8",
+    "category": "presentation",
+    "group": "framework",
+    "slug": "mdl",
+    "title": "Material Lite",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mdl.png",
+    "versions": [
+      "1.3.0"
+    ]
+  },
+  {
+    "_id": "13867dd5-a7fd-406d-8987-344cb0f5a7fd",
+    "category": "presentation",
+    "group": "framework",
+    "slug": "foundation",
+    "title": "Foundation",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/foundationui.svg",
+    "versions": [
+      "3", "4", "5", "6"
+    ]
+  },
+  {
+    "_id": "8c84a6cc-de5a-4f8f-9c20-8226eca68aa5",
+    "group": "specification",
+    "slug": "formio",
+    "title": "form io",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/formio.jpg",
+    "versions": [
+      "Hosted"
+    ]
+  },
+  {
+    "_id": "2b61c9b2-c5e7-4e9f-9835-faedcd0359ad",
+    "group": "specification",
+    "category": "serverless",
+    "slug": "jsonschema",
+    "title": "JSONSchema",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jsonschema.png",
+    "versions": [
+      "draft-04",
+      "draft-06",
+      "draft-07"
+    ]
+  },
+  {
+    "_id": "a5303373-cb72-4ae2-827f-ff33a4aa1af9",
+    "group": "specification",
+    "category": "restapi",
+    "slug": "swagger",
+    "title": "Swagger",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/swagger.png",
+    "versions": [
+      "2"
+    ]
+  },
+  {
+    "_id": "cf7eff0a-c1db-49e2-937c-56a4ba39a0df",
+    "group": "specification",
+    "category": "restapi",
+    "slug": "openapi",
+    "title": "Open API",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/openapi3.png",
+    "versions": [
+      "3"
+    ]
+  },
+  {
+    "_id": "eee3e991-122b-4ee9-a524-d13db5fd0936",
+    "group": "specification",
+    "category": "restapi",
+    "slug": "raml",
+    "title": "RAML",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/raml.png",
+    "versions": [
+      "0.8",
+      "1"
+    ]
+  },
+  {
+    "_id": "703259ac-89a5-4453-9115-3f50db827350",
+    "group": "specification",
+    "category": "restapi",
+    "slug": "apiblueprint",
+    "title": "API Blueprint",
+    "enabled": true,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiblueprint.png",
+    "versions": [
+      "1A"
+    ]
+  },
+  {
+    "_id": "5df306c0-9bb9-4a77-ae5c-4d014f32bbea",
+    "group": "specification",
+    "category": "restapi",
+    "slug": "mson",
+    "title": "MSON",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiary.svg",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "b3ff015e-7fa4-465c-8db9-1cd39dcfbde9",
+    "group": "cd",
+    "slug": "cluster",
+    "title": "Cluster",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cluster.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "b2231645-7d93-405d-9381-28c7896ee538",
+    "group": "cd",
+    "slug": "cloud",
+    "title": "Cloud",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudprovider.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "f70b450a-4e31-4830-9999-8d675fe6aca6",
+    "group": "cluster",
+    "slug": "swarm",
+    "title": "Docker Swarm",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/swarm.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "db89b5de-4c66-40a8-b2c9-e20a7a050f74",
+    "group": "cluster",
+    "slug": "kubernete",
+    "title": "Kubernetes",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kubernete.png",
+    "versions": [
+      "0.0"
+    ]
+  },
+  {
+    "_id": "f220c037-6666-4e91-a39c-604806cf0d47",
+    "group": "cluster",
+    "slug": "mesos",
+    "title": "Mesos",
+    "enabled": false,
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mesos.svg",
+    "versions": [
+      "0.0"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "slug": "discovery",
+  "title": "Discovery",
+  "enabled": true,
+  "display_order": 4,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery.png",
+  "description": ""
+}
