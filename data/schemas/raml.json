@@ -2,8 +2,8 @@
   "slug": "raml",
   "title": "RAML",
   "enabled": true,
-  "description": "",
+  "description": "RESTful API Modeling Language",
   "display_order": 3,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/raml.png",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/raml_lightgray.png",
   "versions": [ "0.8", "1" ]
 }

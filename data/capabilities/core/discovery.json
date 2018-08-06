@@ -1,8 +1,33 @@
 {
   "slug": "discovery",
-  "title": "Discovery",
+  "title": "Service Discovery",
   "enabled": true,
   "display_order": 4,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/discovery_lightgray.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "springcloudeureka",
+      "title": "Spring Cloud Eureka",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springcloudeureka.png",
+      "versions": [
+        "0.0.0"
+      ]
+    },
+    {
+      "slug": "springcloudconsul",
+      "title": "Spring Cloud Consul",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springcloudconsul.png",
+      "versions": [
+        "0.0.0"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,38 @@
 {
   "slug": "package",
-  "title": "Package",
+  "title": "Package Manager",
   "display_order": 1,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/package.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/package_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "jfrog",
+      "title": "JFrog",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jfrog.svg",
+      "versions" : [ "Hosted" ]
+    },
+    {
+      "slug": "npm",
+      "title": "NPM",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/npm.png",
+      "versions" : [ "Hosted" ]
+    },
+    {
+      "slug": "nexus",
+      "title": "Nexus",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nexus.png",
+      "versions" : [ "Hosted" ]
+    }
+  ]
 }

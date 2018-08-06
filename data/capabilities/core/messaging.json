@@ -1,0 +1,47 @@
+{
+  "slug": "messaging",
+  "title": "Message Connectivity",
+  "enabled": true,
+  "display_order": 5,
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messages.png",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "rabbitmq",
+      "title": "Rabbitmq",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/editcode.png",
+      "versions": [
+        "springboot2",
+        "springcloud"
+      ]
+    },
+    {
+      "slug": "kafka",
+      "title": "Kafka",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/editcode.png",
+      "versions": [
+        "springboot2",
+        "springcloud"
+      ]
+    },
+    {
+      "slug": "nats",
+      "title": "NATS",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/editcode.png",
+      "versions": [
+        "0.0"
+      ]
+    }
+
+  ]
+}

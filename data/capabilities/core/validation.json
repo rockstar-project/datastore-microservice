@@ -1,0 +1,22 @@
+{
+  "slug": "validation",
+  "title": "Data Validation",
+  "enabled": true,
+  "display_order": 7,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datavalidation3_lightgray.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "hibernate",
+      "title": "Hibernate Validator",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hibernate.png",
+      "versions": [
+        "0.0.0"
+      ]
+    }
+  ]
+}

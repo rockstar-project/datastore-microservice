@@ -2,7 +2,7 @@
   "slug": "python",
   "title": "Python",
   "enabled": true,
-  "description": "",
+  "description": "Build efficient and lightweight microservices in Python",
   "display_order": 3,
   "stack": "backend",
   "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/python.png",
@@ -14,7 +14,7 @@
       "enabled": true,
       "display_order": 2,
       "description": "",
-      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django.png",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django1.png",
       "versions": [ "0.0" ]
     },
     {

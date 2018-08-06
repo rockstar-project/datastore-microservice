@@ -3,6 +3,68 @@
   "title": "Continuous Integration",
   "display_order": 1,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ci.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/continuousintegration_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "circleci",
+      "title": "Circle CI",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/circleci2.jpg",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "codeship",
+      "title": "Codeship",
+      "enabled": true,
+      "display_order": 11,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/codeship.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "jenkins",
+      "title": "Jenkins",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jenkins-headshot.png",
+      "versions": [ "Cloudbees" ]
+    },
+    {
+      "slug": "travis",
+      "title": "Travis CI",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "teamcity",
+      "title": "TeamCity",
+      "enabled": true,
+      "display_order": 10,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/teamcity.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "bamboo",
+      "title": "Bamboo",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bamboo.svg",
+      "versions": [ "Hosted" ]
+    }
+
+
+
+  ]
 }

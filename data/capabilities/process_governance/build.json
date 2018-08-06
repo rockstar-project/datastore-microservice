@@ -3,6 +3,97 @@
   "title": "Build",
   "display_order": 1,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/build.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/build_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "gradle",
+      "title": "Gradle",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gradle.png",
+      "versions": [
+        "4.4.1"
+      ]
+    },
+    {
+      "slug": "maven",
+      "title": "Maven",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
+      "versions": [
+        "3.3.9", "3.5.2"
+      ]
+    },
+    {
+      "slug": "grunt",
+      "title": "Grunt",
+      "enabled": true,
+      "display_order": 8,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/grunt.png",
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "slug": "gulp",
+      "title": "Gulp",
+      "enabled": true,
+      "display_order": 7,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gulp2.png",
+      "versions": [
+        "3.9.1"
+      ]
+    },
+    {
+      "slug": "pybuilder",
+      "title": "PyBuilder",
+      "enabled": true,
+      "display_order": 6,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/pybuilder.png",
+      "versions": [
+        "0.9.17"
+      ]
+    },
+    {
+      "slug": "make",
+      "title": "GNU Make",
+      "enabled": true,
+      "display_order": 5,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gnumake.png",
+      "versions": [
+        "0.0.0"
+      ]
+    },
+    {
+      "slug": "yarn",
+      "title": "Yarn",
+      "enabled": true,
+      "display_order": 10,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/yarn.png",
+      "versions": [
+        "0.0.0"
+      ]
+    },
+    {
+      "slug": "ivy",
+      "title": "Apache Ivy",
+      "enabled": true,
+      "display_order": 3,
+      "description": "Apache Ivy is a popular dependency manager focusing on flexibility and simplicity",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ivy.png",
+      "versions": [
+        "2.4.0"
+      ]
+    }
+  ]
 }

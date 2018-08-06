@@ -3,10 +3,42 @@
   "title": "Security",
   "enabled": true,
   "display_order": 3,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/sdk_security.png",
   "description": "",
+  "parent": "core",
   "options": [
-    "/tools/auth0",
-    "/tools/okta"
+    {
+      "slug": "auth0sdk",
+      "title": "Auth0 SDK",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+      "versions": [
+        "1.0.0-rc.3"
+      ]
+    },
+    {
+      "slug": "springbootauth2",
+      "title": "Spring Boot OAuth2",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "springsecurity",
+      "title": "Spring Security",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
+      "versions": [
+        "0.0"
+      ]
+    }
   ]
 }

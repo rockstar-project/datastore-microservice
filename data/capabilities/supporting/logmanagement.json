@@ -4,5 +4,41 @@
   "display_order": 7,
   "enabled": true,
   "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/logmanagement.png",
-  "description": ""
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "logentries",
+      "title": "Log Entries",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/logentries.png",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "loggly",
+      "title": "Loggly",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loggly.png",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "splunk",
+      "title": "Splunk",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/splunk.png",
+      "versions": [
+        "Hosted"
+      ]
+    }
+  ]
 }

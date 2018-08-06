@@ -5,7 +5,7 @@
   "display_order": 5,
   "description": "",
   "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/csharp.svg",
-  "versions": [ "6.0", "5.0" ],
+  "versions": [ "7.0", "6.0" ],
   "stack": "backend",
   "frameworks": [
     {
@@ -14,8 +14,8 @@
       "enabled": true,
       "display_order": 1,
       "description": "Cross-platform and open source framework optimized for modern app needs and developer workflows",
-      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/aspnetcore.png",
-      "versions": [ "2.0", "1.0" ]
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dotnet-core.svg",
+      "versions": [ "2.0", "1.1" ]
     }
   ]
 }

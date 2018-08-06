@@ -1,8 +1,57 @@
 {
-  "slug": "messaging",
+  "slug": "messagebroker",
   "title": "Message Broker",
   "display_order": 3,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messaging.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/messagebroker_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "rabbitmq",
+      "title": "RabbitMQ",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rabbitmq.png",
+      "versions": [
+        "3.5.3-management",
+        "3.6.2-management",
+        "3.7.2"
+      ]
+    },
+    {
+      "slug": "cloudamqp",
+      "title": "CloudAMQP",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudamqp.png",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "nats",
+      "title": "NATS",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "slug": "kafka",
+      "title": "Kafka",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kafka_blue.png",
+      "versions": [
+        "1.0"
+      ]
+    }
+  ]
 }

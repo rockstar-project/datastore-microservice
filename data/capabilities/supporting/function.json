@@ -1,0 +1,55 @@
+{
+  "slug": "function",
+  "title": "Function as a Service",
+  "enabled": true,
+  "display_order": 5,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless1.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "awslambda",
+      "title": "AWS Lambda",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/lambda.png",
+      "versions": [
+          "Hosted"
+      ]
+    },
+    {
+      "slug": "openwhisk",
+      "title": "IBM openwhisk",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudfunction.png",
+      "versions": [
+          "Hosted"
+      ]
+    },
+    {
+      "slug": "googlefunction",
+      "title": "Google Function",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/googlefunction.png",
+      "versions": [
+          "Hosted"
+      ]
+    },
+    {
+      "slug": "azurefunction",
+      "title": "Azure Function",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azurefunction_white.png",
+      "versions": [
+          "Hosted"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "domain",
+  "title": "Domain Driven Design",
+  "display_order": 2,
+  "enabled": true,
+  "description": "Mind your own business, bring your own domain",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apifirst_lightgray.png"
+}

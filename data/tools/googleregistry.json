@@ -1,9 +1,0 @@
-{
-  "slug": "gcr",
-  "title": "Google",
-  "enabled": true,
-  "display_order": 6,
-  "description": "",
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gcr.png",
-  "versions": [ "Hosted" ]
-}

@@ -634,7 +634,7 @@
     "slug": "django",
     "title": "Django",
     "enabled": true,
-    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django.png",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django1.png",
     "versions": [
       "0.0"
     ]
@@ -788,7 +788,7 @@
     "slug": "couchdb",
     "title": "CouchDB",
     "enabled": true,
-    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb.svg",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb1.png",
     "versions": [
       "1.7.1",
       "2.1.1"
@@ -835,7 +835,7 @@
     "slug": "redis",
     "title": "Redis",
     "enabled": true,
-    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis.svg",
+    "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis1.png",
     "versions": [
       "4.0.6"
     ]

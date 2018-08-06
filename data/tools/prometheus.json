@@ -1,9 +1,0 @@
-{
-  "slug": "prometheus",
-  "title": "Prometheus",
-  "enabled": true,
-  "display_order": 4,
-  "description": "",
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/prometheus.svg",
-  "versions": [ "0.0" ]
-}

@@ -1,0 +1,31 @@
+{
+  "slug": "monitoringservice",
+  "title": "Monitoring & Alerting",
+  "display_order": 3,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/monitoringservice_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "prometheus",
+      "title": "Prometheus",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/prometheus_filled.png",
+      "versions": [ "2.2.1" ]
+    },
+    {
+      "slug": "sensu",
+      "title": "Sensu",
+      "enabled": true,
+      "display_order": 1,
+      "description": "Open Source monitoring framework",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/sensu2.png",
+      "versions": [
+        "Hosted"
+      ]
+    }
+  ]
+}

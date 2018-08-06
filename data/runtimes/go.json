@@ -31,7 +31,7 @@
       "title": "Gizmo",
       "enabled": true,
       "display_order": 4,
-      "description": "",
+      "description": "Gizmo helps developers quickly configure and build microservice APIs and pubsub daemons",
       "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
       "versions": [ "0.0" ]
     },

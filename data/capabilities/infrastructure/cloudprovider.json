@@ -1,0 +1,59 @@
+{
+  "slug": "cloudprovider",
+  "title": "Cloud Provider",
+  "enabled": true,
+  "display_order": 2,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudprovider1_lightgray.png",
+  "description": "",
+  "parent": "infrastructure",
+  "options": [
+    {
+      "slug": "aws",
+      "title": "Amazon Web Services",
+      "enabled": true,
+      "display_order": 1,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/awscloud.png",
+      "description": ""
+    },
+    {
+      "slug": "azure",
+      "title": "Microsoft Azure",
+      "enabled": true,
+      "display_order": 2,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azure.jpg",
+      "description": "IaaS and PaaS computing for development, deployment, and management"
+    },
+    {
+      "slug": "googlecloud",
+      "title": "Google Cloud Platform",
+      "enabled": true,
+      "display_order": 3,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/googlecloud3.png",
+      "description": "Developer products and cloud technologies hosted by Google"
+    },
+    {
+      "slug": "ibmcloud",
+      "title": "IBM Cloud",
+      "enabled": true,
+      "display_order": 4,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ibmcloud.png",
+      "description": ""
+    },
+    {
+      "slug": "rackspace",
+      "title": "Rackspace",
+      "enabled": true,
+      "display_order": 5,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rackspace.png",
+      "description": ""
+    },
+    {
+      "slug": "digitalocean",
+      "title": "Digital Ocean",
+      "enabled": true,
+      "display_order": 6,
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/digitalocean.png",
+      "description": ""
+    }
+  ]
+}

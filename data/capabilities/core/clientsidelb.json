@@ -1,8 +1,22 @@
 {
   "slug": "clientsidelb",
-  "title": "Load Balancing",
+  "title": "Client-side Load Balancing",
   "enabled": true,
   "display_order": 12,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/share.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loadbalancing.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "springcloudribbon",
+      "title": "Spring Cloud Ribbon",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springcloudribbon.png",
+      "versions": [
+        "springcloud"
+      ]
+    }
+  ]
 }

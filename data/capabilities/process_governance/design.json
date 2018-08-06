@@ -1,0 +1,38 @@
+{
+  "slug": "apidesign",
+  "title": "API Management",
+  "display_order": 1,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/design2_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "swaggerhub",
+      "title": "SwaggerHub",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/swaggerhub2.png",
+      "versions" : [ "Hosted" ]
+    },
+    {
+      "slug": "apiconnect",
+      "title": "ApiConnect",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiconnect.png",
+      "versions" : [ "Hosted" ]
+    },
+    {
+      "slug": "apiary",
+      "title": "Apiary",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiary.svg",
+      "versions" : [ "Hosted" ]
+    }
+  ]
+}

@@ -3,6 +3,6 @@
   "title": "Serverless",
   "display_order": 4,
   "enabled": true,
-  "description": "Build faster with serverless architectures.",
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/api.png"
+  "description": "Write new featues in simple & small functions",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless1.png"
 }

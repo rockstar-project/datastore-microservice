@@ -1,0 +1,22 @@
+{
+  "slug": "config",
+  "title": "Configuration Service",
+  "display_order": 2,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/configservice.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "zookeeper",
+      "title": "Zookeeper",
+      "enabled": true,
+      "display_order": 7,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zookeeper.png",
+      "versions": [
+        "0.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "protocol",
+  "title": "Commnunication Protocol",
+  "enabled": true,
+  "display_order": 9,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dataio.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "grpc",
+      "title": "GRPC",
+      "enabled": true,
+      "display_order": 7,
+      "description": "A high performance, open-source universal RPC framework",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/grpc.png",
+      "versions": [ "3", "2", "1"]
+    },
+    {
+      "slug": "springweb-hateoas",
+      "title": "Spring Hateoas",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/library.png",
+      "versions": [
+        "0.0.0"
+      ]
+    }
+  ]
+}

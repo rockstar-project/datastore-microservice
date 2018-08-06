@@ -1,0 +1,47 @@
+{
+  "slug": "caas",
+  "title": "Container Service",
+  "enabled": true,
+  "display_order": 2,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/containerservice_lightgray.png",
+  "description": "",
+  "parent": "infrastructure",
+  "options": [
+    {
+      "slug": "dockercloud",
+      "title": "Docker Cloud",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dockercloud.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "rancher",
+      "title": "Rancher",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rancher.png",
+      "versions": [ "v1.6.15", "v2.0.0-alpha24" ]
+    },
+    {
+      "slug": "ecs",
+      "title": "Amazon Container Service",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecs.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "aks",
+      "title": "Azure Container Service",
+      "enabled": true,
+      "display_order": 4,
+      "description": "Use a fully managed Kubernetes container orchestration service or choose other orchestrators.",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azure-cs.png",
+      "versions": [ "Hosted" ]
+    }
+  ]
+}

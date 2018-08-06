@@ -1,8 +1,133 @@
 {
   "slug": "datastore",
-  "title": "Database",
+  "title": "Data Store",
   "display_order": 2,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datastore.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/datastore_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "cassandra",
+      "title": "Cassandra",
+      "enabled": true,
+      "display_order": 11,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra6.png",
+      "versions": [
+        "3.11.1"
+      ]
+    },
+    {
+      "slug": "couchdb",
+      "title": "CouchDB",
+      "enabled": true,
+      "display_order": 7,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb3.png",
+      "versions": [
+        "1.7.1",
+        "2.1.1"
+      ]
+    },
+    {
+      "slug": "elasticsearch",
+      "title": "Elastic Search",
+      "enabled": true,
+      "display_order": 8,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/elasticsearch.svg",
+      "versions": [
+        "5.2",
+        "6.1"
+      ]
+    },
+    {
+      "slug": "mariadb",
+      "title": "MariaDB",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+      "versions": [
+        "10.1",
+        "10.2",
+        "10.3"
+      ]
+    },
+    {
+      "slug": "mongodb",
+      "title": "MongoDB",
+      "enabled": true,
+      "display_order": 6,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mongodb.png",
+      "versions": [
+        "3.0",
+        "3.4",
+        "3.6",
+        "cloudant"
+      ]
+    },
+    {
+      "slug": "mysql",
+      "title": "MySQL",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "https://icongr.am/devicon/mysql-original-wordmark.svg?size=200",
+      "versions": [
+        "5.6",
+        "5.7"
+      ]
+    },
+    {
+      "slug": "neo4j",
+      "title": "Neo4j",
+      "enabled": true,
+      "display_order": 9,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/neo4j.png",
+      "versions": [
+        "3.2.6",
+        "3.3.3"
+      ]
+    },
+    {
+      "slug": "postgresql",
+      "title": "PostgreSQl",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/postgresql_white.png",
+      "versions": [
+        "9.6.6",
+        "10.1"
+      ]
+    },
+    {
+      "slug": "redis",
+      "title": "Redis",
+      "enabled": true,
+      "display_order": 12,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis1.png",
+      "versions": [
+        "4.0.6"
+      ]
+    },
+    {
+      "slug": "rethinkdb",
+      "title": "RethinkDB",
+      "enabled": true,
+      "display_order": 5,
+      "description": "The open-source database for the realtime web",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
+      "versions": [
+        "2.3.4",
+        "2.3.5",
+        "2.3.6"
+      ]
+    }
+  ]
 }

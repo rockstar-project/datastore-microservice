@@ -2,7 +2,32 @@
   "slug": "persistence",
   "title": "Data persistence",
   "enabled": true,
-  "display_order": 2,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springdata.png",
-  "description": ""
+  "display_order": 1,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/save.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "springdata",
+      "title": "Spring Data",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springdata.png",
+      "versions": [
+        "0.0.0"
+      ]
+    },
+    {
+      "slug": "hibernate",
+      "title": "Hibernate JPA",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hibernate.png",
+      "versions": [
+        "0.0.0"
+      ]
+    }
+  ]
 }

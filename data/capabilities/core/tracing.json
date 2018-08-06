@@ -3,6 +3,42 @@
   "title": "Tracing",
   "enabled": true,
   "display_order": 10,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tracing.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tracing_lightgray.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "jaeger",
+      "title": "Jaeger",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jaeger.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "sleuth",
+      "title": "Sleuth",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/sleuth.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "zipkin",
+      "title": "Zipkin",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zipkin.png",
+      "versions": [
+        "0.0"
+      ]
+    }
+  ]
 }

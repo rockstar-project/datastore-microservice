@@ -1,0 +1,33 @@
+{
+  "slug": "securityservice",
+  "title": "Security & Identity",
+  "enabled": true,
+  "display_order": 5,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/securityservice_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "auth0",
+      "title": "Auth0",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/auth0_black.png",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "okta",
+      "title": "Okta",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/okta1.png",
+      "versions": [
+        "Hosted"
+      ]
+    }
+  ]
+}

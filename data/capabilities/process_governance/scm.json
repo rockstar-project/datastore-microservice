@@ -1,0 +1,38 @@
+{
+  "slug": "scm",
+  "title": "Source Control",
+  "display_order": 2,
+  "enabled": true,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/git_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "bitbucket",
+      "title": "BitBucket",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/bitbucket.svg",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "gitlab",
+      "title": "GitLab",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gitlab2.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "github",
+      "title": "GitHub",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/github3.png",
+      "versions": [ "Hosted" ]
+    }
+  ]
+}

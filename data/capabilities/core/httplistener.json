@@ -3,6 +3,40 @@
   "title": "Http Listener",
   "enabled": true,
   "display_order": 6,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/httplistener.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/http.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "jetty",
+      "title": "Jetty",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jetty.svg",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "springboottomcat",
+      "title": "Tomcat",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tomcat.png",
+      "versions": [
+        "8.5.23"
+      ]
+    },
+    {
+      "slug": "undertow",
+      "title": "Undertow",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/undertow.png",
+      "versions": [
+        "0.0"
+      ]
+    }
+  ]
 }

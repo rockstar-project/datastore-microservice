@@ -1,8 +1,0 @@
-{
-  "slug": "securityservice",
-  "title": "Security Service",
-  "enabled": true,
-  "display_order": 5,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/security.png",
-  "description": ""
-}

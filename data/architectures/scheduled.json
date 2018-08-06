@@ -1,0 +1,8 @@
+{
+  "slug": "scheduled",
+  "title": "Scheduled Task",
+  "enabled": true,
+  "display_order":"5",
+  "description": "",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/scheduled.png"
+}

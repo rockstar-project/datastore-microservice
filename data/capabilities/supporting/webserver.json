@@ -1,0 +1,29 @@
+{
+  "slug": "supporting",
+  "title": "Supporting",
+  "display_order": 2,
+  "enabled": true,
+  "description": "Don’t do your own heavy lifting, simple patterns automated by tooling",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/supporting.png",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "caddy",
+      "title": "Caddy",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/caddy.svg",
+      "versions": [ "0.0" ]
+    },
+    {
+      "slug": "nginx",
+      "title": "NGINX",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nginx1.png",
+      "versions": [ "1.13.11" ]
+    }
+  ]
+}

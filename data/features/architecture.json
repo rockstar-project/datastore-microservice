@@ -1,0 +1,8 @@
+{
+  "slug": "architecture",
+  "title": "Microservice-based Architecture",
+  "display_order": 1,
+  "enabled": true,
+  "description": "Code your architecture with style, quality, security, and test coverage",
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudarchitecture.png"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "gateway",
+  "title": "API Gateway",
+  "enabled": true,
+  "display_order": 1,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apigateway1_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "zuul",
+      "title": "Zuul",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix_oss.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "kong",
+      "title": "Kong",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kong.svg",
+      "versions": [
+        "0.0"
+      ]
+    }
+  ]
+}

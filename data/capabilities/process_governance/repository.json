@@ -1,8 +1,66 @@
 {
   "slug": "repository",
-  "title": "Microservice Repository",
+  "title": "Container Registry",
   "display_order": 1,
   "enabled": true,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/repository.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/microservicerepository_lightgray.png",
+  "description": "Makes it easy to store and access your Docker images.",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "azr",
+      "title": "Azure Registry",
+      "enabled": true,
+      "display_order": 8,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/azrregistry.png",
+      "versions" : [ "Hosted" ]
+    },
+    {
+      "slug": "dockerhub",
+      "title": "Docker Hub",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dockerhub.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "ecr",
+      "title": "Amazon ECS",
+      "enabled": true,
+      "display_order": 4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecs.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "gcr",
+      "title": "Google",
+      "enabled": true,
+      "display_order": 6,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/googleregistry.png",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "jfrog",
+      "title": "JFrog",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jfrog.svg",
+      "versions": [ "Hosted" ]
+    },
+    {
+      "slug": "quay",
+      "title": "Quay",
+      "enabled": true,
+      "display_order": "2",
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/quay.svg",
+      "versions": [ "Hosted" ]
+    }
+
+  ]
 }

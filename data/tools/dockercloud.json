@@ -1,9 +1,0 @@
-{
-  "slug": "dockercloud",
-  "title": "Docker Cloud",
-  "enabled": true,
-  "display_order": 1,
-  "description": "",
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dockercloud.png",
-  "versions": [ "Hosted" ]
-}

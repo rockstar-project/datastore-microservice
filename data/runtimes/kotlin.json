@@ -3,8 +3,8 @@
   "title": "Kotlin",
   "enabled": true,
   "display_order": 5,
-  "description": "",
+  "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
   "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kotlin.png",
-  "versions": [ "0.0" ],
+  "versions": [ "1.2.30" ],
   "stack": "frontend"
 }

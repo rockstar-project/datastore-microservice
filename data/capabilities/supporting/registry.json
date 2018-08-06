@@ -1,0 +1,55 @@
+{
+  "slug": "registryservice",
+  "title": "Service Registry",
+  "enabled": true,
+  "display_order": 9,
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serviceregistry_lightgray.png",
+  "description": "",
+  "parent": "supporting",
+  "options": [
+    {
+      "slug": "consul",
+      "title": "Consul",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/consul.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "etcd",
+      "title": "Etcd",
+      "enabled": true,
+      "display_order": 3,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/etcd.svg",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "eureka",
+      "title": "Eureka",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix_red.png",
+      "versions": [
+        "0.0"
+      ]
+    },
+    {
+      "slug": "hydra",
+      "title": "Hydra",
+      "enabled": true,
+      "display_order":4,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hydra.png",
+      "versions": [
+        "0.0"
+      ]
+    }
+  ]
+}

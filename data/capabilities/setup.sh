@@ -1,38 +1,41 @@
 #!/bin/bash
 
-CORE_CAPABILITY_FILES=core/*.json
-echo "uploading capabilities..."
+######## CORE CAPABILITIES #########
 
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @core.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @supporting.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @infrastructure.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @process_governance.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+echo "create core capabilities..."
 
-CORE_CAPABILITY_FILES=core/*.json
-for file in $CORE_CAPABILITY_FILES
+FILES=core/*
+for file in $FILES
 do
-  echo "creating $file core capability..."
-  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/core/items --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
 done
 
-SUPPORTING_CAPABILITY_FILES=supporting/*.json
-for file in $SUPPORTING_CAPABILITY_FILES
+######## SUPPORTING CAPABILITIES #########
+
+echo "create supporting capabilities..."
+
+FILES=supporting/*
+for file in $FILES
 do
-  echo "creating $file supporiting capability..."
-  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/supporting/items --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
 done
 
+######## INFRASTRUCTURE CAPABILITIES #########
 
-echo "creating process governance capabilities..."
+echo "create infrastructure capabilities..."
 
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/process-governance/items --data @process_governance/apidoc.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/process-governance/items --data @process_governance/test.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+FILES=infrastructure/*
+for file in $FILES
+do
+  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+done
 
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/process-governance/items --data @process_governance/repository.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+######## PROCESS GOVERNANCE CAPABILITIES #########
 
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/process-governance/items --data @process_governance/devops.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/devops/items --data @process_governance/ci.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/devops/items --data @process_governance/cd.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/ci/items --data @process_governance/build.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/ci/items --data @process_governance/test.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
-curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities/ci/items --data @process_governance/package.json --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+echo "create process governance capabilities..."
+
+FILES=process_governance/*
+for file in $FILES
+do
+  curl -s -X POST $API_ENDPOINT_URL/microservices/capabilities --data @$file --header "Accept:application/json" --header "Content-Type:application/json;charset=UTF-8" | jq .
+done

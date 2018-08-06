@@ -3,6 +3,20 @@
   "title": "Resilience",
   "enabled": true,
   "display_order": 13,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/resilience.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/code1.png",
+  "description": "",
+  "parent": "core",
+  "options": [
+    {
+      "slug": "hystrix",
+      "title": "Hystrix",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hystrix.jpg",
+      "versions": [
+        "1.5.12"
+      ]
+    }
+  ]
 }

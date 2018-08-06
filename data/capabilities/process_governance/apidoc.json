@@ -3,6 +3,31 @@
   "title": "Api Documentation",
   "display_order": 1,
   "enabled": false,
-  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apidoc.png",
-  "description": ""
+  "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apidoc_lightgray.png",
+  "description": "",
+  "parent": "process_governance",
+  "options": [
+    {
+      "slug": "slate",
+      "title": "Slate",
+      "enabled": true,
+      "display_order": 1,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/slate.png",
+      "versions": [
+        "Hosted"
+      ]
+    },
+    {
+      "slug": "readme",
+      "title": "readme",
+      "enabled": true,
+      "display_order": 2,
+      "description": "",
+      "thumbnail": "http://res.cloudinary.com/dzmrr9uj9/image/upload/readme.png",
+      "versions": [
+        "Hosted"
+      ]
+    }
+  ]
 }
